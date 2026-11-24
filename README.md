@@ -10,19 +10,20 @@
 - CC0 License - Free to use, no credit required!
 
 
+
 ## 📥 Download & Browse
 
 ### Browse All Articles Online
 Click here to view all 104 articles as an interactive table:
 
-**[📊 View Full Dataset CSV](data/July_article_List.csv)**
+**[📊 View Full Dataset CSV](data/July%20Article%20List.csv)**
 
 (GitHub displays it as a searchable table - no download needed!)
 
 ### Download Files
-- `data/articles.csv` - Article list (CSV format)
+- `data/July Article List.csv` - Article list (CSV format)
 - `data/July Article List.xlsx` - Original Excel file
-- `pdfs/journal-articles/` - All 82 PDF files
+- `pdfs/journal-articles/Article PDF/` - All 82 PDF files
 
 ## 🗂️ What's Included
 
