@@ -78,6 +78,6 @@ Thank you to everyone submitting articles!
 
 ---
 
-Questions? Open an Issue on GitHub or email: policylensbd@gmail.com
+Questions? Open an Issue on GitHub or email: Syful.au.bd@gmail.com
 
-Last Updated: November 2024
+Last Updated: November 2026
