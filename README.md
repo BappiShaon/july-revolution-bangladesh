@@ -56,7 +56,6 @@ README.md
 
 **Special Thanks to:** All researchers and students who contributed articles
 
-[View full contributor list](CONTRIBUTORS.md)
 
 ## 📥 How to Contribute
 
