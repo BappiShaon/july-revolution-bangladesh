@@ -9,11 +9,20 @@
 - Multiple Categories: Health, Politics, Media, Human Rights, Education, Social Movement
 - CC0 License - Free to use, no credit required!
 
-## 📥 Download
 
-Complete Dataset:
-- data/July Article List.xlsx - Full metadata of all 104 articles
-- pdfs/journal-articles/ - All 82 PDF files
+## 📥 Download & Browse
+
+### Browse All Articles Online
+Click here to view all 104 articles as an interactive table:
+
+**[📊 View Full Dataset CSV](data/July_article_List.csv)**
+
+(GitHub displays it as a searchable table - no download needed!)
+
+### Download Files
+- `data/articles.csv` - Article list (CSV format)
+- `data/July Article List.xlsx` - Original Excel file
+- `pdfs/journal-articles/` - All 82 PDF files
 
 ## 🗂️ What's Included
 
