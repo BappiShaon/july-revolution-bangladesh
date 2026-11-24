@@ -50,6 +50,14 @@ README.md
 - Category (Politics, Health, Media, Law, etc.)
 - PDF Link
 
+## 👥 Credits & Contributors
+
+**Dataset Created By:** Md Syful Islam
+
+**Special Thanks to:** All researchers and students who contributed articles
+
+[View full contributor list](CONTRIBUTORS.md)
+
 ## 📥 How to Contribute
 
 Found an article about July 2024 Revolution? Help us grow the dataset!
